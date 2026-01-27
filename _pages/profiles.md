@@ -34,6 +34,7 @@ nav_order: 7
   Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
   Title: Mapping and monitoring of the surface condition and biological colonization of submerged parts of offshore wind turbines using acoustic imaging
 </div>
+<br>
 
 ## MSc/BSc Students
 
@@ -42,6 +43,7 @@ nav_order: 7
   Co-supervised with Nicolas Lutz (LIRMM-ICAR) <br>
   Title: Seabed generator for sonar-based depth map estimation training
 </div>
+<br>
 <div>
   <b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
   Co-supervised with Frédéric Comby (LIRMM-RSM) and Nicolas Bernard (Exail Robotics) <br>
