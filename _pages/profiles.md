@@ -27,11 +27,24 @@ nav_order: 7
 #       <p>Your City, State 12345</p>
 ---
 
-## MSc Students
+## PhD Students
 
 <div>
+  <b>Alessandro Puglisi</b>, 2025-2028 <br>
+  Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
+  Title: Mapping and monitoring of the surface condition and biological colonization of submerged parts of offshore wind turbines using acoustic imaging
+</div>
+
+## MSc/BSc Students
+
+<div>
+  <b>Vincent Bernardon</b>, 2026, 5 month <br>
+  Co-supervised with Nicolas Lutz (LIRMM-ICAR) <br>
+  Title: Seabed generator for sonar-based depth map estimation training
+</div>
+<div>
   <b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
-  Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
+  Co-supervised with Frédéric Comby (LIRMM-RSM) and Nicolas Bernard (Exail Robotics) <br>
   Title: Software Enhancement for Underwater Image Processing
 </div>
 <br>
@@ -47,7 +60,7 @@ nav_order: 7
 </div>
 <br>
 <div>
-  <b>Ahmed HARBI</b> and <b>Abdelrhman BASSIOUNY</b>, 2022, 1 month <br>
+  <b>Ahmed Harbi</b> and <b>Abdelrhman Bassiouny</b>, 2022, 1 month <br>
   Co-supervised with Maxime Ferrera (IFREMER) and Claire Dune (COSMER) <br>
   Title: Experimental evaluation of visual-inertial SLAM for underwater
 </div>
