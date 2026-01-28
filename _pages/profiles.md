@@ -39,6 +39,12 @@ nav_order: 7
 ## MSc/BSc Students
 
 <div>
+  <b>Yassine Haouam</b>, 2026, 6 month <br>
+  Co-supervised with Ahmed Chemori (LIRMM-RSM) and Johann Lamaury (Watertracks)<br>
+  Title: Modeling and perception in underwater robotics for dredging and maintenance of hydraulic infrastructures
+</div>
+<br>
+<div>
   <b>Vincent Bernardon</b>, 2026, 5 month <br>
   Co-supervised with Nicolas Lutz (LIRMM-ICAR) <br>
   Title: Seabed generator for sonar-based depth map estimation training
