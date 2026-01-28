@@ -48,7 +48,7 @@
       #   - Description 1.
       #   - Description 2.
 
-- title: PhD defense jury
+- title: PhD Defence Jury
   type: nested_list
   contents:
     - title: <a href="https://teusner.github.io/">Quentin Brateau</a>
