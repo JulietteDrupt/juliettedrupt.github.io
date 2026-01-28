@@ -35,7 +35,7 @@
       institution: University of Montpellier, Montpellier, France
       year: since 2024
       description:
-        - Member of the MArine Robotics Team at LIRMM
+        - Member of the Marine Robotics Team at LIRMM
         - Lecturer at IUT Montpellier-Sète
       #   - title: Description 3.
       #     contents:
@@ -47,6 +47,16 @@
       # description:
       #   - Description 1.
       #   - Description 2.
+
+- title: PhD defense jury
+  type: nested_list
+  contents:
+    - title: <a href="https://teusner.github.io/">Quentin Brateau</a>
+      items:
+        - "Title: Event-driven Cycle Navigation for Mobile Robots"
+        - "Defended on: October 15th 2025"
+        - "Jury: Frédéric Boyer (president), Andreas Rauh (reviewer), Sylvain Durand (reviewer), Luc Jaulin (director), Fabrice Le Bars (supervisor) Juliette Drupt (examiner), Lionel Lapierre (examiner), Philippe Xu (examiner)"
+        - "Place: ENSTA Bretagne, Brest"
 
 # - title: Open Source Projects
 #   type: time_table
