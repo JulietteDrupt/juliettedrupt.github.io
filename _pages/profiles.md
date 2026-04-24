@@ -75,7 +75,7 @@ nav_order: 7
 </div>
 
 ## BSc Students
-
+<br>
 <div>
   <b>Corrina Berger</b>, 2025, 2 month <br>
   Title: Extrinsic calibration of a sonar-vision system
