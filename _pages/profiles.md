@@ -36,8 +36,14 @@ nav_order: 7
 </div>
 <br>
 
-## MSc/BSc Students
+## MSc Students
 
+<div>
+  <b>Marc Calatayud</b>, 2026, 5 month <br>
+  Co-supervised with Thomas Haettel (IMAG)<br>
+  Title: Underwater robots cable untangling
+</div>
+<br>
 <div>
   <b>Yassine Haouam</b>, 2026, 6 month <br>
   Co-supervised with Ahmed Chemori (LIRMM-RSM) and Johann Lamaury (Watertracks)<br>
@@ -57,11 +63,6 @@ nav_order: 7
 </div>
 <br>
 <div>
-  <b>Corrina Berger</b>, 2025, 2 month <br>
-  Title: Extrinsic calibration of a sonar-vision system
-</div>
-<br>
-<div>
   <b>Simon Archieri</b>, 2024, 6 month <br>
   Co-supervised with Ignacio Carlucho and Yvan Pétillot (OSL) <br>
   Title: 3D sonar mapping
@@ -72,3 +73,11 @@ nav_order: 7
   Co-supervised with Maxime Ferrera (IFREMER) and Claire Dune (COSMER) <br>
   Title: Experimental evaluation of visual-inertial SLAM for underwater
 </div>
+
+## BSc Students
+
+<div>
+  <b>Corrina Berger</b>, 2025, 2 month <br>
+  Title: Extrinsic calibration of a sonar-vision system
+</div>
+<br>
