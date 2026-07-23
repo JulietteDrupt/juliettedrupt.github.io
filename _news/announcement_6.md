@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Submeeting is back, from June 15th to 19th, in Brest, France!!! Check the event [website]https://webperso.ensta.fr/viel/submeeting2026.html for more information!
+The Submeeting is back, from June 15th to 19th, in Brest, France!!! Check the event [website](https://webperso.ensta.fr/viel/submeeting2026.html) for more information!

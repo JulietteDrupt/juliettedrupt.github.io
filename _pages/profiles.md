@@ -27,13 +27,45 @@ nav_order: 7
 #       <p>Your City, State 12345</p>
 ---
 
+<!-- <style>
+  .student {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.student-photo img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+  .student-info {
+    flex: 1;
+  }
+</style> -->
+
 ## PhD Students
+
+<!-- <div class="student">
+  <div class="student-photo">
+  LauraPatricio.jpeg
+  </div>
+  <div class="student-info">
+    <b>Laura Gonçalves Patricio</b>, 2026-2029 <br>
+    Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
+    Title: Optical-acoustic autonomous docking for an underwater robot in limited visual conditions <br>
+    Industrial PhD (<it>Thèse CIFRE</it>) with EXAIL Robotics
+  </div>
+</div> -->
 
 <div>
   <b>Laura Gonçalves Patricio</b>, 2026-2029 <br>
   Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
   Title: Optical-acoustic autonomous docking for an underwater robot in limited visual conditions <br>
-  Industrial PhD (<it>Thèse CIFRE</it>) with EXAIL Robotics
+  Industrial PhD (Thèse CIFRE) with EXAIL Robotics
 </div>
 <br>
 <div>
