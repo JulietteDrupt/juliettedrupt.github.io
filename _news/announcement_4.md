@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Alessandro Puglisi is joining the team for his PhD !
+Alessandro Puglisi is joining the team for his PhD!
