@@ -51,13 +51,13 @@ nav_order: 7
 
 <div class="student">
   <div class="student-photo">
-  <img src="LauraPatricio.jpeg" alt="Laura Gonçalves Patricio"\>
+  <img src="/assets/img/LauraPatricio.jpeg" alt="Laura Gonçalves Patricio"/>
   </div>
   <div class="student-info">
     <b>Laura Gonçalves Patricio</b>, 2026-2029 <br>
     Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
     Title: Optical-acoustic autonomous docking for an underwater robot in limited visual conditions <br>
-    Industrial PhD (<it>Thèse CIFRE</it>) with EXAIL Robotics
+    Industrial PhD (<i>Thèse CIFRE</i>) with EXAIL Robotics
   </div>
 </div>
 
@@ -71,10 +71,10 @@ nav_order: 7
 
 <div class="student">
   <div class="student-photo">
-  <img src="AlessandroPuglisi.jpeg" alt="Alessandro Puglisi\>
+  <img src="/assets/img/AlessandroPuglisi.jpeg" alt="Alessandro Puglisi"/>
   </div>
   <div class="student-info">
-    <b>Alessandro Puglisi</b>,, 2025-2028 <br>
+    <b>Alessandro Puglisi</b>, 2025-2028 <br>
     Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
     Title: Mapping and monitoring of the surface condition and biological colonization of submerged parts of offshore wind turbines using acoustic imaging
   </div>
