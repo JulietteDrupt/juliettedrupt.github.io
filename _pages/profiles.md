@@ -51,7 +51,7 @@ nav_order: 7
 
 <div class="student">
   <div class="student-photo">
-  <img src="LauraPatricio.jpeg"\>
+  <img src="LauraPatricio.jpeg" alt="Laura Gonçalves Patricio"\>
   </div>
   <div class="student-info">
     <b>Laura Gonçalves Patricio</b>, 2026-2029 <br>
@@ -71,7 +71,7 @@ nav_order: 7
 
 <div class="student">
   <div class="student-photo">
-  <img src="AlessandroPuglisi.jpeg"\>
+  <img src="AlessandroPuglisi.jpeg" alt="Alessandro Puglisi\>
   </div>
   <div class="student-info">
     <b>Alessandro Puglisi</b>,, 2025-2028 <br>
