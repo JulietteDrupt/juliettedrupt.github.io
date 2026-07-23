@@ -30,6 +30,13 @@ nav_order: 7
 ## PhD Students
 
 <div>
+  <b>Laura Gonçalves Patricio</b>, 2026-2029 <br>
+  Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
+  Title: Optical-acoustic autonomous docking for an underwater robot in limited visual conditions <br>
+  Industrial PhD (<it>Thèse CIFRE</it>) with EXAIL Robotics
+</div>
+<br>
+<div>
   <b>Alessandro Puglisi</b>, 2025-2028 <br>
   Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
   Title: Mapping and monitoring of the surface condition and biological colonization of submerged parts of offshore wind turbines using acoustic imaging
@@ -73,9 +80,9 @@ nav_order: 7
   Co-supervised with Maxime Ferrera (IFREMER) and Claire Dune (COSMER) <br>
   Title: Experimental evaluation of visual-inertial SLAM for underwater
 </div>
+<br>
 
 ## BSc Students
-<br>
 <div>
   <b>Corrina Berger</b>, 2025, 2 month <br>
   Title: Extrinsic calibration of a sonar-vision system
