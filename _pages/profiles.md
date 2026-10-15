@@ -86,7 +86,7 @@ nav_order: 7
 </div> -->
 <br>
 
-<div class="student">
+<!-- <div class="student">
   <div class="student-photo">
   <img src="/assets/img/user.png" alt="Vincent Bernardon"/>
   </div>
@@ -108,7 +108,7 @@ nav_order: 7
     Title: Detection and modeling of underwater robot cables in challenging environments using vision and sonar
   </div>
 </div>
-<br>
+<br> -->
 
 ## MSc Students
 
