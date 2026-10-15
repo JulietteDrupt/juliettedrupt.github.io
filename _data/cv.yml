@@ -58,6 +58,13 @@
         - "Jury: Frédéric Boyer (president), Andreas Rauh (reviewer), Sylvain Durand (reviewer), Luc Jaulin (director), Fabrice Le Bars (supervisor) Juliette Drupt (examiner), Lionel Lapierre (examiner), Philippe Xu (examiner)"
         - "Place: ENSTA Bretagne, Brest"
 
+    - title: <a href="https://godardma.github.io/">Maël Godard</a>
+      items:
+        - "Title: Safe navigation of a robot in a landmarked environment"
+        - "Defended on: October 13th 2026"
+        - "Jury: Michel Kieffer (reviewer, president), Matthias Althoff (reviewer), Luc Jaulin (director), Damien Massé (supervisor), Goran Frehse (examiner), Juliette Drupt (examiner), Simon Rohou (examiner)
+        - "Place: ENSTA Bretagne, Brest"
+
 # - title: Open Source Projects
 #   type: time_table
 #   contents:

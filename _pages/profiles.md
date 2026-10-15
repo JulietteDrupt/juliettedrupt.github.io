@@ -86,6 +86,30 @@ nav_order: 7
 </div> -->
 <br>
 
+<div class="student">
+  <div class="student-photo">
+  <img src="/assets/img/user.png" alt="Vincent Bernardon"/>
+  </div>
+  <div class="student-info">
+    <b>Vincent Bernardon</b>, 2026-2029 <br>
+    Director: Karen Godary; Supervisors: Nicolas Lutz (LIRMM-ICAR) and Juliette Drupt <br>
+    Title: Real-time procedural generation of seabeds for testing SLAM and semantic perception algorithms using synthetic data
+  </div>
+</div>
+<br>
+
+<div class="student">
+  <div class="student-photo">
+  <img src="/assets/img/user.png" alt="Iris Leroy"/>
+  </div>
+  <div class="student-info">
+    <b>Iris Leroy</b>, 2026-2029 <br>
+    Director: Vincent Hugel (COSMER); Supervisors: Loïck Degorre (COSMER) and Juliette Drupt <br>
+    Title: Detection and modeling of underwater robot cables in challenging environments using vision and sonar
+  </div>
+</div>
+<br>
+
 ## MSc Students
 
 <div>
