@@ -74,7 +74,7 @@ nav_order: 7
   <img src="/assets/img/AlessandroPuglisi.jpeg" alt="Alessandro Puglisi"/>
   </div>
   <div class="student-info">
-    <b>Alessandro Puglisi</b>, 2025-2028 <br>
+    <b><a href="https://alepuglisi.github.io/">Alessandro Puglisi</a></b>, 2025-2028 <br>
     Director: Vincent Creuze; Supervisors: Frederic Comby and Juliette Drupt <br>
     Title: Mapping and monitoring of the surface condition and biological colonization of submerged parts of offshore wind turbines using acoustic imaging
   </div>
@@ -109,6 +109,19 @@ nav_order: 7
   </div>
 </div>
 <br>
+
+## Postdocs
+
+<div class="student">
+  <div class="student-photo">
+  <img src="/assets/img/MaelGodard.jpg" alt="Maël Godard"/>
+  </div>
+  <div class="student-info">
+    <b><a href="https://godardma.github.io/">Maël Godard</a></b>, 2026-2028 <br>
+    Advisors: Jean-Charles Laurentie (IES), José de Jesus Castillo Zamora and Juliette Drupt <br>
+    Title: Submarine power cables monitoring
+  </div>
+</div>
 
 ## MSc Students
 
