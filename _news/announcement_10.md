@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://godardma.github.io/">Maël Godard</a> is joining the team for a postdoc!
+<!-- <a href="https://godardma.github.io/">Maël Godard</a> is joining the team for a postdoc! -->
+Maël Godard is joining the team for a postdoc!

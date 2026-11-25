@@ -112,7 +112,7 @@ nav_order: 7
 
 ## Postdocs
 
-<div class="student">
+<!-- <div class="student">
   <div class="student-photo">
   <img src="/assets/img/MaelGodard.jpg" alt="Maël Godard"/>
   </div>
@@ -121,7 +121,7 @@ nav_order: 7
     Advisors: Jean-Charles Laurentie (IES), José de Jesus Castillo Zamora and Juliette Drupt <br>
     Title: Submarine power cables monitoring
   </div>
-</div>
+</div> -->
 
 ## MSc Students
 
