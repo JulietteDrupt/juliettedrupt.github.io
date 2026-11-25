@@ -65,12 +65,12 @@
         - "Jury: Michel Kieffer (reviewer, president), Matthias Althoff (reviewer), Luc Jaulin (director), Damien Massé (supervisor), Goran Frehse (examiner), Juliette Drupt (examiner), Simon Rohou (examiner)"
         - "Place: ENSTA Bretagne, Brest"
 
-    # - title: Louis Jouclas
-    #   items:
-    #     - "Title: Sonar and vision based exploration for autonomous underwater robot"
-    #     - "Defended on: November 12th 2026"
-    #     - "Jury: Luc Jaulin (president), Julien Marzat (reviewer), Olivier Kermorgant (reviewer), Juliette Drupt (examiner), Vincent Hugel (co-director), Vincent Creuze (co-director), Claire Dune (supervisor) and Maxime Ferrera (supervisor)"
-    #     - "Place: Université de Toulon, La Garde"
+    - title: Louis Jouclas
+      items:
+        - "Title: Sonar and vision based exploration for autonomous underwater robot"
+        - "Defended on: November 12th 2026"
+        - "Jury: Luc Jaulin (president), Julien Marzat (reviewer), Olivier Kermorgant (reviewer), Juliette Drupt (examiner), Vincent Hugel (co-director), Vincent Creuze (co-director), Claire Dune (supervisor) and Maxime Ferrera (supervisor)"
+        - "Place: Université de Toulon, La Garde"
 
 # - title: Open Source Projects
 #   type: time_table
